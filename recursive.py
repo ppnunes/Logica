@@ -25,5 +25,6 @@ def test_factorial():
     
 
 if __name__ == "__main__":
+    """função principal"""
     print(factorial(5))
     test_factorial()
